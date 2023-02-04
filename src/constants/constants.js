@@ -38,9 +38,9 @@ export const projects = [
   ];
   
   export const TimeLineData = [
-    { year: 2017, text: 'Started my journey', },
-    { year: 2018, text: 'Worked as a freelance developer', },
-    { year: 2019, text: 'Founded JavaScript Mastery', },
-    { year: 2020, text: 'Shared my projects with the world', },
-    { year: 2021, text: 'Started my own platform', },
+    { year: 2016, text: 'Completed Bachelor in Pharmacy', },
+    { year: 2018, text: 'Worked as a research student on Biological Science in Shizuoka University', },
+    { year: 2021, text: 'Completed eShikhon Web Design and Development Course', },
+    { year: 2022, text: 'Worked on more than 20 personal web development projects', },
+    { year: 2023, text: 'Start working as a freelance developer', },
   ];
