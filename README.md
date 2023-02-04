@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Live Site [https://wali-profile.netlify.app/](https://wali-profile.netlify.app/)
