@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-Live Site [https://wali-profile.netlify.app/](https://wali-profile.netlify.app/)
+Live Site [https://waliullah-portfolio.netlify.app/](https://waliullah-portfolio.netlify.app/)
