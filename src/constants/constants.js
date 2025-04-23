@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "ManageSchool",
     description:
-      "A full-stack school management web application built with Next.js, Prisma, PostgreSQL, Tailwind CSS, and Clerk for authentication and user role management.",
+      "A full-stack school management web application built with Next.js, Prisma, PostgreSQL, Tailwind CSS, and Clerk for authentication and user role management. Admin (username: admin, password: admin).",
     image: "/images/4.png",
     tags: ["Next.js", "Prisma", "PostgreSQL"],
     source: "https://github.com/wali55/school-management-p1",
