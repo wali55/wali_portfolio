@@ -32,8 +32,6 @@ const Timeline = () => {
     }
   }
 
-  // // snap back to beginning of scroll when window is resized
-  // // avoids a bug where content is covered up if coming from smaller screen
   useEffect(() => {
     const handleResize = () => {
       scroll(carouselRef.current, 0);
@@ -46,7 +44,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        From my childhood I was very fond of computer. Although I did my bachelor in Pharmacy, I always wanted to do something related to computer. With proper guideline from the web development course I have taken I pursuing my goal to become web developer. 
+        From my childhood I was very fond of computer. Although I did my bachelor in Pharmacy, I always wanted to do something related to computer. With proper guideline from the web development course I have taken I pursuing my goal to become web developer. I have worked as Frontend Developer Intern at Byte Bridge IT Solutions (UAE, Remote) for 4 months. Now I am currently working as a SQA Engineer at Byte Bridge IT Solutions (UAE, Remote) for 1 year and 5 months.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

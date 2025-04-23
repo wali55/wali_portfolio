@@ -18,7 +18,8 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js <br />
+            Next.js 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,17 +29,19 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and MongoDB
+            Node.js <br />
+            Prisma and PostgreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiZend size="3rem" />
         <ListContainer style={{ marginTop: '5px'}}>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>DevOps</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Figma
+            Docker <br />
+            GitHub
           </ListParagraph>
         </ListContainer>
       </ListItem>

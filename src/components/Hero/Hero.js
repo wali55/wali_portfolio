@@ -14,7 +14,6 @@ const Hero = (props) => (
       <SectionText>
         I develop beautiful websites and web applications and I love what I do.
       </SectionText>
-      <Button onClick={() => window.open('http://google.com','_blank')}>Learn More</Button>
     </LeftSection>
   </Section>
 );
